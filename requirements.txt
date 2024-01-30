@@ -1,6 +1,5 @@
-numpy = "^1.22.2"
-Flask = "^2.2.0"
-urllib3 = "^1.26.12"
-fastapi = "^0.89.1"
-uvicorn = "^0.20.0"
-Pillow = "^9.5.0"
+fastapi==0.75.0
+uvicorn==0.17.6
+python-multipart==0.0.5
+Pillow==9.1.0
+httpx==0.22.0
