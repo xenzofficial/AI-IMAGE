@@ -1,11 +1,4 @@
 {
-  "builds": [
-    {
-      "src": "Procfile",
-      "use": "@vercel/python",
-      "config": { "maxLambdaSize": "50mb" }
-    }
-  ],
   "routes": [
     {
       "src": "/(.*)",
